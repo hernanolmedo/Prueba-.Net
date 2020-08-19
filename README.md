@@ -3,8 +3,8 @@ Webapi cuentas bancarias ASP.NET Core<br>
 <br>
 POST  https://localhost:5001/login<br>
 body: {<br>
-    "Password": ,<br>
-    "Username": <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;"Password": ,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;"Username": <br>
       } <br>
 response: JWT<br>
       <br>
